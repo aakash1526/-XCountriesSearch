@@ -1,0 +1,21 @@
+.countryCard {
+    width: 200px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .countryCard img {
+    width: 200px;
+    height: 200px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .countryCard h2 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
